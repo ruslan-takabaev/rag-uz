@@ -24,7 +24,7 @@ $python3 build_index.py
 **4 - gpt2 -> gemma-1.1-7b-it**: this is another change for introducing multilingualism. A newer but slightly heavier gemma-2-9b-it can be used instead.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ruslan-takabaev/rag-uz/blob/main/LICENSE) file for details.
 ## Authors
 Ruslan Takabaev: [GitHub](https://github.com/ruslan-takabaev), 
 
