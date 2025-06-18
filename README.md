@@ -12,7 +12,7 @@ $pip install torch numpy faiss-cpu transformers sentence_transformers huggingfac
 ```
 $python3 build_index.py
 ```
-4 - Open and rag.ipynb to test RAG
+4 - Run rag.py to test RAG
 
 ## Main changes to original work
 **1 - all-mpnet-base-v2 -> multilingual-e5-large**: changed the embedding model to a multilingual one. 
