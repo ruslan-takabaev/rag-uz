@@ -4,7 +4,7 @@ This work is greatly inspired by [this repository](https://github.com/NadejdaSt/
 ## Environment setup
 1 - Install dependencies.
 ```
-$pip install torch numpy faiss-cpu transformers sentence_transformers huggingface_hub hf_xet
+$pip install torch numpy faiss-cpu transformers sentence_transformers huggingface_hub hf_xet accelerate
 ```
 2 - Prepare the knowledge base: create knowledge_base/ subdirectory inside your working directory and move your .txt files there.
 
