@@ -45,4 +45,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## Authors
 Ruslan Takabaev: ruslantakabaev495@gmail.com, [GitHub](https://github.com/ruslan-takabaev) 
 
-[Ilya, Firdavs, Tyson, Diana]
+Firdavs: [GitHub](https://github.com/firdavsus)
+
+[Ilya, Tyson, Diana]
