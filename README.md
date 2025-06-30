@@ -27,9 +27,9 @@ $python3 build_index.py
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/ruslan-takabaev/rag-uz/blob/main/LICENSE) file for details.
 
 ## Authors
-Ruslan Takabaev: [GitHub](https://github.com/ruslan-takabaev)
+Ruslan Takabaev: ruslantakabaev495@gmail.com, [GitHub](https://github.com/ruslan-takabaev) 
 
-Tyson []()
+Tyson []() 
 
 Diana []()
 
